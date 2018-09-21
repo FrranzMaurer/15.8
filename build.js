@@ -1,3 +1,3 @@
-'use strict';
+"use strict";
 
-ReactDOM.render(React.createElement(App, null), document.getElementById('root'));
+ReactDOM.render(React.createElement(App, null), document.getElementById("root"));
